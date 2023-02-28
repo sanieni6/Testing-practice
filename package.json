@@ -1,0 +1,25 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanieni6/Testing-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanieni6/Testing-practice/issues"
+  },
+  "homepage": "https://github.com/sanieni6/Testing-practice#readme",
+  "devDependencies": {
+    "jest": "^29.4.3",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
